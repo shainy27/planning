@@ -1,0 +1,4 @@
+15-03-2023:
+vandaag ga ik de challenge bird-count maken.
+daarna ga ik aan me game werken, meer functions  aan toevoegen en imports maken voor meerdere
+delen van het programma
